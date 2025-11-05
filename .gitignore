@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Bases de datos locales
+*.db
